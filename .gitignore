@@ -25,7 +25,6 @@ filestypings/
 .yarn-integrity
 
 # Assets
-public/
 dist/
 
 # Coverage reportscoverage# API keys and secrets.env
