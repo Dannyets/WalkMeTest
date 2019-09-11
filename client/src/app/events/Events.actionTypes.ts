@@ -1,0 +1,2 @@
+export const GET_EVENT_COUNTS = 'EVENTS/COUNTS/GET';
+export const ADD_EVENT = 'EVENTS/ADD';
